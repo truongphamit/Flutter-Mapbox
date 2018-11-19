@@ -18,4 +18,4 @@ Flutter Mapbox sample
 
 ## Some Screenshots
 
-<img src="https://github.com/truongphamit/Tasks/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%206%20-%202018-11-05%20at%2014.29.16.png" height="300em"/>
+<img src="https://github.com/truongphamit/Flutter-Mapbox/blob/master/Screenshots/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%202018-11-19%20at%2009.52.28.png" height="300em"/>
